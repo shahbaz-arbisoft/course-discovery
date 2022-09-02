@@ -202,7 +202,7 @@ django-ses==3.1.2
     # via
     #   -r requirements/production.in
     #   taxonomy-connector
-django-simple-history==3.1.0
+django-simple-history==3.1.1
     # via -r requirements/base.in
 django-solo==2.0.0
     # via
