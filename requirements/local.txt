@@ -258,7 +258,7 @@ django-parler==2.3
     # via -r requirements/base.in
 django-ses==3.1.2
     # via taxonomy-connector
-django-simple-history==3.0.0
+django-simple-history==3.1.0
     # via -r requirements/base.in
 django-solo==2.0.0
     # via
